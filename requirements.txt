@@ -109,7 +109,7 @@ wrapt==1.12.1
 xmltodict==0.12.0
 zipp==1.0.0
 gdown
-#-i https://test.pypi.org/simple/ ds4n6-lib
+# ds4n6-lib
 https://test-files.pythonhosted.org/packages/b7/54/c08cfcb8fb3d0a8db6d6bfa5a28aae5ae2a5a2ba923a78176a1d1343389f/ds4n6_lib-0.0.2.tar.gz
 seaborn
 untangle
