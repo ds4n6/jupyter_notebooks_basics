@@ -116,3 +116,4 @@ untangle
 pandas-bokeh
 timesketch-api-client
 dill
+ipynb-path
