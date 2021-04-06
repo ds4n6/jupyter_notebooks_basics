@@ -109,4 +109,4 @@ wrapt==1.12.1
 xmltodict==0.12.0
 zipp==1.0.0
 gdown
-ds4n6-lib -i https://test.pypi.org/simple/
+-i https://test.pypi.org/simple/ds4n6-lib
