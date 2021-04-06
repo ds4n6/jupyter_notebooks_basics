@@ -1,0 +1,14 @@
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+
+# ag-grid notebook
+jupyter nbextension enable --py --sys-prefix ipyaggrid
+# ag-grid lab
+jupyter labextension install ipyaggrid
+
+# qgrid notebook
+jupyter nbextension enable --py --sys-prefix qgrid
+# only required if you have not enabled the ipywidgets nbextension yet
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
+
+# qgrid lab
+jupyter labextension install qgrid2
