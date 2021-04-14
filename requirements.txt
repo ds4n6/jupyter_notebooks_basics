@@ -110,7 +110,7 @@ xmltodict==0.12.0
 zipp==1.0.0
 gdown
 # ds4n6-lib
-https://test-files.pythonhosted.org/packages/2d/3b/75c687ec3ecbef0c8c8ce7683cdba9ae60348ac7caf938b9786e1210f1b2/ds4n6_lib-0.0.5.tar.gz
+https://test-files.pythonhosted.org/packages/6c/fa/0beef1dda5c15cd17f4a41a3770c77c574c995e9149c6f14af2396d5b523/ds4n6_lib-0.0.6.tar.gz
 seaborn
 untangle
 pandas-bokeh
